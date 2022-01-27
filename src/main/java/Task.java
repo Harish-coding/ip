@@ -14,7 +14,6 @@ public class Task {
 
     // task variable stores the task.
     private final String task;
-    
     // Tells if the task is completed.
     private boolean done;
 
